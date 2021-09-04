@@ -11,7 +11,7 @@ import { ShoppingListService } from '../shopping-list.service';
 @Component({
   selector: 'app-shopping-edit',
   templateUrl: './shopping-edit.component.html',
-  styleUrls: ['./shopping-edit.component.css']
+  styleUrls: ['./shopping-edit.component.sass']
 })
 export class ShoppingEditComponent implements OnInit {
   @ViewChild('nameInput', { static: false }) nameInputRef: ElementRef;
