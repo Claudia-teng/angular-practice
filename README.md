@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Hosting URL:
 
-[https://ng-course-recipe-book-36669.web.app] (https://ng-course-recipe-book-36669.web.app)
+<a href="https://ng-course-recipe-book-36669.web.app" target="_blank">https://ng-course-recipe-book-36669.web.app</a>
