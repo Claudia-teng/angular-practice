@@ -26,6 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## Hosting URL:
+## Hosting URL
 
-<a href="https://ng-course-recipe-book-36669.web.app" target="_blank">https://ng-course-recipe-book-36669.web.app</a>
+<a href="#" onclick="window.open('https://ng-course-recipe-book-36669.web.app', '_blank');">https://ng-course-recipe-book-36669.web.app</a>
